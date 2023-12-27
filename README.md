@@ -26,7 +26,7 @@ Ensure you have the following installed:
 
 1. Clone this repository:
 
-   git clone https://github.com/your-username/magento-automation.git
+   git clone [https://github.com/your-username/magento-automation.git](https://github.com/Mahmood-elbadri/Gonna-Buy-a-fitness-short.git)
 
    Set up your development environment.
 
